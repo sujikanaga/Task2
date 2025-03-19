@@ -2,7 +2,7 @@ pipeline {
     agent any
 
     environment {
-        IMAGE_NAME = "suji102/Task2"
+        IMAGE_NAME = "suji102/devops"
         TAG = "latest"
         CONTAINER_NAME = "my-container"
         PORT = "3001"
