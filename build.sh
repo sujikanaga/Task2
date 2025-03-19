@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # Variables
-IMAGE_NAME="suji102/Task2"
+IMAGE_NAME="suji102/devops"
 TAG="latest"
 
 # Build Docker image
